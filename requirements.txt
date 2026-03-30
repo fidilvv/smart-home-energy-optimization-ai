@@ -5,3 +5,4 @@ requests
 geocoder
 scikit-learn
 xgboost
+plotly
